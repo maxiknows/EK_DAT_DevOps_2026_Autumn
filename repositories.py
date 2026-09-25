@@ -44,7 +44,7 @@ GROUP_REPOS = [
     {
     "name": "JakobMagnusBardie",
     "gitLinks": ["https://github.com/JacobMagnusBardie/WhoKnowsWho"],
-    "backend": "http://20.100.207.69:8080/api",
+    "backend": "http://20.100.207.69:8080/",
     "frontend": "http://20.100.207.69:8080/",
     "monitoring": "",
     "stack": [
